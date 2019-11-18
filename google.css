@@ -1,0 +1,92 @@
+body {background-color:#800080;}
+	background-image: https://orange-object.github.io/dude/;
+}
+	a{color:#3383ff}
+	a: hover{color:#009dff}
+
+alt="orange"
+alt="yellow"
+
+
+img .left https://leepavelich.files.wordpress.com/2012/03/earth-about-sun.png
+img .left1 http://img.sparknotes.com/content/sparklife/sparktalk/2013/whatifthesunwasgonebro_LargeWide.jpg
+img .right http://beforeitsnews.com/contributor/upload/30080/images/moon-orbit.jpg
+img .right1 http://www.theness.com/images/blogImages/moon2.jpg
+img .right2 https://www.spaceanswers.com/wp-content/uploads/2013/03/Rings_of_Earth_as_simulated_by_Celestia_with_addon_from_Eugene_Stauffer-CREDIT-Grebenkov.jpg
+img .right3 https://www.spaceanswers.com/wp-content/uploads/2013/03/Total-solar-eclipse-Credit-NASA.jpg
+
+body {background-color:#800080;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FDB813;
+}
+
+l {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FDB813;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+al {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #A9A9A9;
+}
+
+
+ll {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #A9A9A9;
+}
+
+ll {
+    float: left;
+}
+
+ll a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+ll a:hover {
+    background-color: #111111;
+}
+
+.img-with-text {
+    text-align: justify;
+    width: [width of img];
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
